@@ -1261,7 +1261,7 @@ async def prompt_handler(
             except Exception:
                 pass
 
-        except        except Exception:
+        except Exception:
 
             logging.exception(
                 "AI image generation error"
