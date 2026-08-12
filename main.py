@@ -23,9 +23,9 @@ from openai import AsyncOpenAI
 # SOZLAMALAR
 # ============================================================
 
-BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+BOT_TOKEN = os.getenv("8979249320:AAE9az2AK9bSiwtKX-fZ-bGGeoxbKmU_oag")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-ADMIN_ID = int(os.getenv("ADMIN_ID", "0"))
+ADMIN_ID = int(os.getenv("ADMIN_ID", "8113271428"))
 
 DAILY_LIMIT = 4
 RESET_HOURS = 24
